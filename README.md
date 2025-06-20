@@ -46,11 +46,5 @@ This project aims to bridge the communication gap between deaf/mute individuals 
 - `model.h5` & `model.json`: Pre-trained model files for gesture recognition.
 - `function.py`: Contains helper functions used across the application.
 
-## Contributing
 
-Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
